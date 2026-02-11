@@ -1,0 +1,6 @@
+#Method two
+# This is where you import a given function from that particular module 
+from lesson6a import rectangle_area
+
+rectangle_area()
+
